@@ -9,15 +9,17 @@ int main(void)
 	int ch = "a";
 	int CH = "A";
 
-	while (a <= 'z')
+	while (ch <= 'z')
 	{
 		putchar(ch);
 		ch++;
 	}
-	while (a <= 'Z')
+	while (CH <= 'Z')
 	{
 		puchar(CH);
 		CH++;
 	}
+	putchar("\n");
+	return (0);
 }
 
