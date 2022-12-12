@@ -4,10 +4,10 @@
  * main -print an alphabets in lowercase then in uppercase
  * Return: 0
 */
-int main(voi)
+int main(void)
 {
-	int char = "a";
-	int char = "A";
+	int ch = "a";
+	int CH = "A";
 
 	while (a <= 'z')
 	{
