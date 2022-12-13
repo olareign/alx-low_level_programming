@@ -5,9 +5,12 @@
 */
 void print_alphabet(void)
 {
-	char a;
+	char letter = 'a';
 
-	for (a = 0; a <= 'z'; a++)
-		_putchar(a);
+	while (letter <= 'z')
+	{
+		_putchar(letter);
+		letter++;
+	}
 	_putchar('\n');
 }
