@@ -11,5 +11,4 @@ int main(void)
 		_putchar(a);
 	
 	_putchar('\n');
-
 }
