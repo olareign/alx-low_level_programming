@@ -5,7 +5,7 @@
 
 
 /**
- * main - check the code
+ * sum_them_all - adds num
  * @n: param
  * Return: int
 */
